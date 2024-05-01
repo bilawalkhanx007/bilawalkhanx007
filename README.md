@@ -13,33 +13,13 @@ I'm a Senior Software Engineer based in Dubai, UAE with 8+ years of experience i
 - 📞 Contact No: +971 545870668
 - 📍 Based in: Dubai, UAE
 
-## Work Experience
+###
 
-### Senior Software Engineer at Smart Cube, UAE, Dubai
-- June 2022 - Present
-- Developing microservices with .NET Core and Docker on Azure Kubernetes.
-- Building scalable web applications using Angular and React with server-side rendering.
-- Implemented RabbitMQ for reliable message-based communication and integrated Azure services for enhanced functionality.
-- Led code reviews, mentored junior developers, and collaborated cross-functionally for timely feature delivery.
-- Expertise in interface development within agile environments.
+<br clear="both">
 
-### Senior Software Engineer at IBEX, Pakistan
-- Aug 2019 - Oct 2021
-- Skilled in collaborative ideation, architecture design, database management, and efficient API creation.
-- Proficient in C#, .NET Core, WPF, ADO.NET, TypeScript, React, and more.
-- Expert in microservices architecture, Rabbit MQ, and API-gateway.
-- Strong focus on security, adherence to technical standards, and agile development practices.
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-### Software Engineer at Netsol Technologies, Pakistan
-- March 2018 - Aug 2019
-- Developed and designed scalable auto vehicle leasing modules, collaborating with QA and clients for fault diagnosis and removal.
-- Conducted front-end and back-end analysis, ensuring clean and reusable code.
-- Experienced in SQL databases and collaborative team environments (Agile, Scrum, Kanban).
-
-### Junior Software Engineer at Pakistan Revenue Automations, Pakistan
-- Sept 2016 - March 2018
-- Developed and managed multiple modules in WEBOC while concurrently building a scalable web platform using Asp .Net, C#, and Web Services.
-- Implemented technologies for efficient platform performance.
+###
 
 ## Technologies Stack
 
