@@ -13,13 +13,6 @@ I'm a Senior Software Engineer based in Dubai, UAE with 8+ years of experience i
 - 📞 Contact No: +971 545870668
 - 📍 Based in: Dubai, UAE
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
 
 ## Technologies Stack
 
