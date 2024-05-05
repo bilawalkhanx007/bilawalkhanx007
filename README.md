@@ -7,7 +7,6 @@
 
 I'm a Senior Software Engineer based in Dubai, UAE with 8+ years of experience in developing and deploying scalable web applications and microservices. I'm highly skilled in .NET Core, Microservices, Angular, MVC, and Azure Cloud technologies. I'm passionate about delivering high-quality software solutions and solving complex problems.
 
-- 🌱 I’m currently learning more about cloud-native architectures and advanced DevOps practices.
 - 💬 Ask me about .NET Core, Microservices, Angular, or anything related to software engineering!
 - 📫 How to reach me: [bilawalkhanx007@gmail.com](mailto:bilawalkhanx007@gmail.com)
 - 📞 Contact No: +971 545870668
